@@ -83,8 +83,17 @@ You’ll need:
 The project is production-ready and can be deployed to Vercel (Frontend/Serverless) and Neon for database hosting.
 
 ## Screenshots
+<img width="1920" height="1080" alt="Screenshot (740)" src="https://github.com/user-attachments/assets/4cece942-76da-4d0b-a54b-1b3a8063aa4b" />
 
-> Add screenshots of the homepage, dashboard, and key AI tools here for better visibility to other users.
+<img width="1920" height="1080" alt="Screenshot (741)" src="https://github.com/user-attachments/assets/2bb803e3-4836-4135-ba9b-053b1490cfde" />
+
+<img width="1920" height="1080" alt="Screenshot (746)" src="https://github.com/user-attachments/assets/84d4ae38-b457-4229-8d26-db3d2d171615" />
+
+<img width="1920" height="1080" alt="Screenshot (749)" src="https://github.com/user-attachments/assets/82e5caeb-e21c-481c-bcf4-d802ac695fb8" />
+
+<img width="1920" height="1080" alt="Screenshot (751)" src="https://github.com/user-attachments/assets/b710f8f7-3c30-4eaf-9e15-a562d8ca10ba" />
+
+
 
 ## Useful Links
 
